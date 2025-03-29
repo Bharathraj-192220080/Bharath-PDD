@@ -1,0 +1,2 @@
+/AndroidProjects/appmolecule/android/app/.cxx/Debug/35451b35/x86_64/CMakeFiles/edit_cache.dir
+/AndroidProjects/appmolecule/android/app/.cxx/Debug/35451b35/x86_64/CMakeFiles/rebuild_cache.dir

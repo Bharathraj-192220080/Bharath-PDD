@@ -1,0 +1,2 @@
+/AndroidProjects/appmolecule/android/app/.cxx/RelWithDebInfo/5k4u4ck6/x86_64/CMakeFiles/edit_cache.dir
+/AndroidProjects/appmolecule/android/app/.cxx/RelWithDebInfo/5k4u4ck6/x86_64/CMakeFiles/rebuild_cache.dir
